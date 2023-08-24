@@ -23,12 +23,26 @@
 				{{ end }}
 				<div {{ if .ctx.Params.multipleColumn }} class="columns center" {{ end }}>
 					{{ range $i, $img := $imgs }}
-						{{ if not $.ctx.Site.Params.DisableAlwaysResize }}
-							{{ $resizer := "3000x r0" }}
-						{{ end  }}
-						<div {{ if $.ctx.Params.multipleColumn }} class="column" {{ end }}>
-							<img src="{{ $img.RelPermalink }}" loading="lazy" width="{{ $img.Width }}" height="{{ $img.Height }}" />
-						</div>
+						{{ with $img }}
+							{{ if not $.ctx.Site.Params.DisableAlwaysResize }}
+								{{ $resizer := "3000x r0" }}
+								{{ with .Exif }}
+									{{ if eq .Tags.Orientation 6 }}
+										{{ $resizer = "3000x r270" }}
+									{{ end }}
+									{{ if eq .Tags.Orientation 3 }}
+										{{ $resizer = "3000x r180" }}
+									{{ end }}
+									{{ if eq .Tags.Orientation 8 }}
+										{{ $resizer = "3000x r90" }}
+									{{ end }}
+								{{ end }}
+								{{ $img = .Resize $resizer }}
+							{{ end  }}
+							<div {{ if $.ctx.Params.multipleColumn }} class="column" {{ end }}>
+								<img src="{{ .RelPermalink }}" loading="lazy" width="{{ .Width }}" height="{{ .Height }}" />
+							</div>
+						{{ end }}
 					{{ end }}
 				</div>
 				{{ if not .ctx.Site.Params.MoveIt }}
