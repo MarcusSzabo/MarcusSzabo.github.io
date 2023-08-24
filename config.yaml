@@ -14,11 +14,11 @@ params:
   portfolio:
     columns:
       desktop:
-        games: 4
-        design: 2
-        default: 3
+        games: 1
+        design: 1
+        default: 1
       mobile:
-        default: 2
+        default: 1
         games: 1
   socials:
     # todo: change these links.
