@@ -1,5 +1,5 @@
 {{ $imgs := slice }}
-{{ range $i, $image := .ctx.Params.images }}
+{{ range $i, $image := $.ctx.Params.images }}
 	{{ $scratch := newScratch }}
 	{{ $row := dict "images" (slice $image) }}
 	{{ partial "helpers/get" (dict "scratch" $scratch "row" $row) }}
