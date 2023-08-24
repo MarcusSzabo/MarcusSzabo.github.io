@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>games on Marcus Szabo</title>
+    <link>https://marcusgame.dev/tags/games/</link>
+    <description>Recent content in games on Marcus Szabo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcusgame.dev/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Chant</title>
+      <link>https://marcusgame.dev/chant/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcusgame.dev/chant/</guid>
+      <description>The Chant You can use Markdown format to write your story.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    
+  </channel>
+</rss>

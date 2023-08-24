@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcus Szabo</title>
+    <link>https://marcusgame.dev/</link>
+    <description>Recent content on Marcus Szabo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcusgame.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Man</title>
+      <link>https://marcusgame.dev/man/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcusgame.dev/man/</guid>
+      <description>Man You can use Markdown format to write your story.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    
+    <item>
+      <title>Starlord Cosplay Project</title>
+      <link>https://marcusgame.dev/starlord/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcusgame.dev/starlord/</guid>
+      <description>Starlord You can use Markdown format to write your story.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    
+    <item>
+      <title>The Chant</title>
+      <link>https://marcusgame.dev/chant/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcusgame.dev/chant/</guid>
+      <description>The Chant You can use Markdown format to write your story.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    
+    <item>
+      <title>404</title>
+      <link>https://marcusgame.dev/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcusgame.dev/404.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://marcusgame.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcusgame.dev/about/</guid>
+      <description>Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.This is demo site for Eternity theme. All images are taken from Unsplash.Features Configurable features.
+Multiple images support.
+Clean, fresh, minimalist.
+Integrated lazy load.
+Automatically creates resized thumbnails.</description>
+    </item>
+    
+  </channel>
+</rss>
