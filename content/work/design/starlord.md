@@ -2,7 +2,6 @@
 weight: 3
 images:
 - /images/Starlord.jpg
-- /images/Starlord2.jpg
 title: Starlord Cosplay Project
 date: 2022-07-23
 tags:
