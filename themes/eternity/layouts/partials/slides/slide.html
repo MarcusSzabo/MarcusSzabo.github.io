@@ -25,7 +25,6 @@
 					{{ range $i, $img := $imgs }}
 						{{ if not $.ctx.Site.Params.DisableAlwaysResize }}
 							{{ $resizer := "3000x r0" }}
-							{{ $img = $img.Resize $resizer }}
 						{{ end  }}
 						<div {{ if $.ctx.Params.multipleColumn }} class="column" {{ end }}>
 							<img src="{{ $img.RelPermalink }}" loading="lazy" width="{{ $img.Width }}" height="{{ $img.Height }}" />
