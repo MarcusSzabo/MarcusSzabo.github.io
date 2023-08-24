@@ -9,6 +9,7 @@ tags:
 - work # homepage
 - archive # all posts
 - design
+hideExif: true
 ---
 
 ## Starlord

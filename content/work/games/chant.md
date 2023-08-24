@@ -10,6 +10,7 @@ tags:
 - games
 - art
 - design
+hideExif: true
 ---
 
 ## The Chant

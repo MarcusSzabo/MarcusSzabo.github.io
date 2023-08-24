@@ -8,6 +8,7 @@ tags:
 - work # homepage
 - archive # all posts
 - art
+hideExif: true
 ---
 
 ## Man
