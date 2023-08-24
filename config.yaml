@@ -14,12 +14,12 @@ params:
   portfolio:
     columns:
       desktop:
-        games: 1
-        design: 1
-        default: 1
+        games: 4
+        design: 6
+        default: 3
       mobile:
-        default: 1
-        games: 1
+        default: 2
+        games: 3
   socials:
     # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
