@@ -21,6 +21,8 @@ hideDate: true
 
 - **Configurable** features.
 
+- [Resume](/images/thecastle.png)
+
 - **Multiple images** support.
 
 - Clean, fresh, **minimalist**.
