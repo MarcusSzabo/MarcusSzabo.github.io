@@ -10,8 +10,7 @@ hideDate: true
 
 <div align="center">
 	<p>
-/images/meclearcrop.png
-  
+		/images/meclearcrop.png
         I have always had a great interest in games and designing puzzles, ever since I had classmates lining up to play my paper-drawn games in elementary school.
 	</p>
 	<p>
