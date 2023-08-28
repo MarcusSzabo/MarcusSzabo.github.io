@@ -17,7 +17,7 @@ hideDate: true
 	</p>
 </div>
 
-[My Resume](/images/thecastle.png)
+- [My Resume](/images/thecastle.png)
 
 ### About Me
 
