@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 99
 images:
 - /images/man.png
 title: Man
