@@ -3,7 +3,7 @@ weight: 150
 images:
 - /images/invasivetitle.png
 - /images/playerwalk.gif
-- /images/vinebossidle
+- /images/vinebossidle.gif
 title: Invasive
 date: 2022-11-28
 tags:
