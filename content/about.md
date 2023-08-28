@@ -1,6 +1,6 @@
 ---
-images:
-- ## /images/meclearcrop.png
+## images:
+- /images/meclearcrop.png
 title: about
 url: about
 hideTitle: true
@@ -10,24 +10,17 @@ hideDate: true
 
 <div align="center">
 	<p>
-        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
+        I have always had a great interest in games and designing puzzles, ever since I had classmates lining up to play my paper-drawn games in elementary school.
 	</p>
 	<p>
-		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
+		While studying at Simon Fraser University, I focused my efforts on courses that broke down Game Design, Immersive Environments, Animation, Design Interactions, Sound design, and Graphic Design. These workshops helped me to better understand the nuances in game mechanics, how sound and music affects the user and environment, and how to create a better feedback loop so the user felt accomplished and rewarded when completing milestones.
 	</p>
 </div>
 
-### Features
+[My Resume](/images/thecastle.png)
 
-- **Configurable** features.
+### About Me
 
-- [Resume](/images/thecastle.png)
+​I'm an avid learner and am able to pick up new skills quickly. I enjoy challenges and love being able to flex my creative side by designing map layouts, the flow of a level, combat encounters, and puzzles.
 
-- **Multiple images** support.
-
-- Clean, fresh, **minimalist**.
-
-- Integrated **lazy load**.
-
-- Automatically creates **resized** thumbnails.
-
+My inspiration for pursuing animation mainly comes from Monty Oum, who directed the 3D anime RWBY and was also in charge of the Halo inspired “Red vs Blue” fight scenes until 2015 where he passed away. He had an incredibly unique animation style that was primarily focused on over-the-top combat. He was able to create very complex and visually breathtaking animations and started a trend of animations using that style.
