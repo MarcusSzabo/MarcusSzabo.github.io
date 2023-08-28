@@ -1,5 +1,5 @@
 ---
-## images:
+images:
 - /images/meclearcrop.png
 title: about
 url: about
