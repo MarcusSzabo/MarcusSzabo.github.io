@@ -3,7 +3,7 @@ weight: 3
 images:
 - /images/man.png
 title: Man
-date: 2022-07-23
+date: 2019-07-03
 tags:
 - work # homepage
 - archive # all posts
@@ -11,15 +11,12 @@ tags:
 hideExif: true
 ---
 
-## Man
+## Artificial Intelligence Avatar
 
-You can use **Markdown** format to write **your story**.
+An **Avatar** created using Autodesk Character Generator for a **Directed Studies** at Simon Fraser University where I designed a human avatar for an AI assistance. Alongside the avatar, I worked in a team to design a variety of animations in Maya for when the AI listens, thinks, and responds to the user. The avatar runs using Unity.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
+### The Process
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-### Subtitle
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+I was invited to the Directed Studies by **Professor Steve Dipaola** and **PHD candidate Servet Ulas** to join their group for two semesters to assist with their project. 
+In the first semester, I used my skills in **Maya** to create animations for the Avatar. In the second semester I lead the next group, helped **organize the tasks and divvy out the work**. I also assisted with creating more animations and create the Avatar above.
 
