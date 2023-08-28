@@ -15,13 +15,10 @@ hideExif: true
 
 ## The Chant
 
-You can use **Markdown** format to write **your story**.
+A psychedelic survival horror game that focuses on a ritual gone wrong during a spiritual retreat. Published by **Prime Matter** and developed **Brass Token**. My role on this project was working as a **Game Designer**.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
+### My Work
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-### Subtitle
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+While a part of this project, I had a hand in a lot of different aspects of the game and had many jobs I was given lead on.
+- 
 
