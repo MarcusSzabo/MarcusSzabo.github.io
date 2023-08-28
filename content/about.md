@@ -13,7 +13,9 @@ hideDate: true
         I have always had a great interest in games and designing puzzles, ever since I had classmates lining up to play my paper-drawn games in elementary school.
 	</p>
 	<p>
-		While studying at Simon Fraser University, I focused my efforts on courses that broke down Game Design, Immersive Environments, Animation, Design Interactions, Sound design, and Graphic Design. These workshops helped me to better understand the nuances in game mechanics, how sound and music affects the user and environment, and how to create a better feedback loop so the user felt accomplished and rewarded when completing milestones.
+		While studying at Simon Fraser University, I focused my efforts on courses that broke down Game Design, Immersive Environments, Animation, Design Interactions, Sound design, and Graphic Design. These workshops helped me to better understand the nuances in game mechanics, how sound and music affects the user and environment, and how to create a better feedback loop so the user feels accomplished and rewarded when completing milestones.
+
+  My goal is to create games like Destiny, Bloodborne, and Remnant that pose difficult challenges to the player and reward them for skill, while also focussing on environmental storytelling and puzzles that encourage collaboration and discussion.
 	</p>
 </div>
 
