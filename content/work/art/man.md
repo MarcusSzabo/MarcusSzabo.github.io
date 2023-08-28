@@ -2,7 +2,7 @@
 weight: 99
 images:
 - /images/man.png
-title: Man
+title: Artificial Intelligence Avatar
 date: 2019-07-03
 tags:
 - work # homepage
