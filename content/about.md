@@ -1,6 +1,6 @@
 ---
 images:
-- /images/about.png
+- /images/meclearcrop.png
 title: about
 url: about
 hideTitle: true
