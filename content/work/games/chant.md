@@ -13,6 +13,18 @@ tags:
 hideExif: true
 ---
 
+<div class="slider" id="slider">
+	{{ range $i, $post := ($.Get "posts") }}
+	    {{ partial "slides/slide.html" (dict "disableFullheight" false "ctx" $post) }}
+	{{ end }}
+	<div id="arrow" class="down-arrow"></div>
+	<div class="navigate">
+		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		<a class="next" onclick="plusSlides(1)">&#10095;</a>
+	</div>
+	<button onclick="closeSlider()" class="modal-close" aria-label="close"></button>
+</div>
+
 ## The Chant
 
 A psychedelic survival horror game that focuses on a ritual gone wrong during a spiritual retreat. Published by **Prime Matter** and developed **Brass Token**. My role on this project was working as a **Game Designer**.
