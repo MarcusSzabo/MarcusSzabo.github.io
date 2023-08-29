@@ -2,6 +2,7 @@
 images:
 - /images/meclearcrop.png
 title: About Me
+multipleColumn: true
 url: About Me
 hideTitle: true
 hideExif: true
