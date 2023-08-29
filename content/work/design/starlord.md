@@ -4,6 +4,7 @@ images:
 - /images/StarLord.jpg
 - /images/StarLord2.jpg
 title: Starlord Cosplay Project
+multipleColumn: true
 date: 2022-07-23
 tags:
 - work # homepage
