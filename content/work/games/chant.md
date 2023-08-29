@@ -1,7 +1,19 @@
 ---
 weight: 1000
-images:
-- /images/ChantTitleCard.jpg
+<div class="slider" id="slider">
+	{{ range $i, $post := ($.Get "posts") }}
+	    {{ partial "slides/slide.html" (dict "disableFullheight" false "ctx" $post) }}
+	{{ end }}
+	<div id="arrow" class="down-arrow"></div>
+	<div class="navigate">
+		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		images:
+		- /images/ChantTitleCard.jpg
+		<a class="next" onclick="plusSlides(1)">&#10095;</a>
+	</div>
+	<button onclick="closeSlider()" class="modal-close" aria-label="close"></button>
+</div>
+
 title: The Chant
 date: 2022-11-03
 tags:
@@ -12,18 +24,6 @@ tags:
 - design
 hideExif: true
 ---
-
-<div class="slider" id="slider">
-	{{ range $i, $post := ($.Get "posts") }}
-	    {{ partial "slides/slide.html" (dict "disableFullheight" false "ctx" $post) }}
-	{{ end }}
-	<div id="arrow" class="down-arrow"></div>
-	<div class="navigate">
-		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-		<a class="next" onclick="plusSlides(1)">&#10095;</a>
-	</div>
-	<button onclick="closeSlider()" class="modal-close" aria-label="close"></button>
-</div>
 
 ## The Chant
 
