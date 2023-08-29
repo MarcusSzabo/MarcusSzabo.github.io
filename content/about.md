@@ -1,8 +1,8 @@
 ---
 images:
 - /images/meclearcrop.png
-title: about
-url: about
+title: About Me
+url: About Me
 hideTitle: true
 hideExif: true
 hideDate: true
