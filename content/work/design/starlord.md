@@ -14,13 +14,9 @@ hideExif: true
 
 ## Starlord
 
-You can use **Markdown** format to write **your story**.
+This cosplay model was a final project for **IAT 336 Material in Design**, where the focus was creating physical models using various different **techniques and materials**. My role in this project was to design and print the **Helmet and Blasters**. The designing of the helmet and blasters was done in **Maya** and was printing in PLA+ using an **Ender 3** 3D printer.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
+### The Process
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-### Subtitle
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+I had a lot of fun designing this project as it allowed me to do something new with **Maya** that I hadn't done before. I was able to create a full object, divid it into sections and be able to create **custom connectors and clips** that kept the entire project together. I did this by creating protrusions from certian pieces that would fit in correspodning holes in the connecting pieces, or using a clip that would snap into place when insterted into its slot but is still removable. This technique allows the **helmet to remain as a whole piece**, but the back is able to be **removed** so the wearer can remove it. I loved being able to use Maya in this project in a new way, carefully **designing** the piece so that it wouldn't just look visually appealing, but also being something **wearable**. 
 
