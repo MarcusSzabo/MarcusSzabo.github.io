@@ -11,6 +11,7 @@ tags:
 - work # homepage
 - archive # all posts
 - design
+- art
 hideExif: true
 ---
 
