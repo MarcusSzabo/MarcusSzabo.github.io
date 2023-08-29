@@ -13,7 +13,7 @@ hideExif: true
 
 ## Invasive
 
-**Invasive** is the final project in the **IAT 410 Advanced Game Design** class. The final project was designed using **Unreal Engine** and all of the assets and character/enemy models in the game was designed using **Maya**.
+**Invasive** is the final project in the **IAT 410 Advanced Game Design** class. The final project was designed using **Unreal Engine** and all of the assets and character/enemy models in the game was designed using **Maya**. Invasive was designed as a **Horror Puzzle** game where the player must explore a space station that has been overrun by sentient plant life that is attempting to hamper or kill the player.
 
 
 ### The Process
