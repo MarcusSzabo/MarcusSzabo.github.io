@@ -8,7 +8,6 @@ tags:
 - work # homepage
 - archive # all posts
 - games
-- art
 - design
 hideExif: true
 ---
