@@ -22,3 +22,6 @@ hideExif: true
 ### The Process
 
 During this project I was acting **project manager**, assisted in **game design**, and was the main **artist** on the project in terms of **3D modeling**. I designed the characters, enemies and boss in the game as well as designing the assets. I created **animations** for the character's, enemy's, and boss's **"Idle" and "Active"** states. I also created basic **puzzles** for the game that requires manipulation of the environment, enemies, and throwable objects in order to solve the puzzles and progress.
+
+You can download the Design Document for the game here
+- [Invasive Final Gold Code](/images/Invasive_Final_Gold_Code.pdf)
