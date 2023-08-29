@@ -2,7 +2,10 @@
 weight: 150
 images:
 - /images/invasivetitle.png
+- /images/shamblermodel.png
+- /images/shambleranim.png
 title: Invasive
+multipleColumn: true
 date: 2022-11-28
 tags:
 - work # homepage
