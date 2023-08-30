@@ -9,6 +9,8 @@ hideExif: true
 hideDate: true
 ---
 
+- [My Resume](/images/marcusszabo.png)
+
 <div align="center">
 	<p>
         I have always had a great interest in games and designing puzzles, ever since I had classmates lining up to play my paper-drawn games in elementary school.
@@ -20,7 +22,7 @@ hideDate: true
 	</p>
 </div>
 
-- [My Resume](/images/marcusszabo.png)
+
 
 ### About Me
 
