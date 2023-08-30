@@ -9,7 +9,7 @@ hideExif: true
 hideDate: true
 ---
 
-- [My Resume](/images/marcusszabo.png)
+- [My Resume](/assets/images/marcusszabo.png)
 
 <div align="center">
 	<p>
