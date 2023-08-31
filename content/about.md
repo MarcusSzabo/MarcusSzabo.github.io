@@ -9,7 +9,7 @@ hideExif: true
 hideDate: true
 ---
 
-- [My Resume](/assets/images/marcusszabo.png)
+- [My Resume](https://drive.google.com/file/d/1AotAVgpXABLjLl2Vrn5-N_m7kg2xs-71/view?usp=sharing)
 
 <div align="center">
 	<p>
