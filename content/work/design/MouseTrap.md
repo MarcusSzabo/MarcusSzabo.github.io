@@ -21,4 +21,4 @@ hideExif: true
 The group I worked alongside was a fantastic team as everyone was already excited and invested in the project idea. We were able to create a basic idea very quickly and immediately began **research** on different **iterations** and materials that could be used to create an effective product. We researched the **main causes** of wrist damage that can occur from prolonged computer use as well as some of the main remedies typically used to **reduce the risk** of further damage as well as preventative measures. This lead us to coming up with a design that is able to "latch" onto most kinds of mouse designs and move just as effectively as the mouse while performing its main role of **wrist support**.
 
 You can download the Business Design process here
-- [Mouse Trap Bus 238](/assets/images/mousetrapbus238.pdf)
+- [Mouse Trap Bus 238](https://drive.google.com/file/d/1X12gTzZih_09fENj4ISxzGxC7Ak8tgxM/view?usp=sharing)
