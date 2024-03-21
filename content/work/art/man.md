@@ -18,5 +18,5 @@ An **Avatar** created using Autodesk Character Generator for a **Directed Studie
 ### The Process
 
 I was invited to the Directed Studies by **Professor Steve Dipaola** and **PHD candidate Servet Ulas** to join their group for two semesters to assist with their project. 
-In the first semester, I used my skills in **Maya** to create animations for the Avatar. In the second semester I lead the next group, helped **organize the tasks and divvy out the work**. I also assisted with creating more animations and create the Avatar above.
+In the first semester, I used my skills in **Maya** to create animations for the Avatar. In the second semester I led the next group, helped **organize the tasks and divvy out the work**. I also assisted with creating more animations and create the Avatar above.
 
