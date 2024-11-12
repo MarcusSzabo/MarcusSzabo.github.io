@@ -9,7 +9,7 @@ hideExif: true
 hideDate: true
 ---
 
-- [My Resume](https://drive.google.com/file/d/1PpCm81w8CmKrsTrPE9PkjxqZIDo1vqWa/view?usp=sharing)
+- [My Resume](https://drive.google.com/file/d/1rJlJ_H5k3BtQYcodU9tIfGYlsKDCMXYu/view?usp=sharing)
 
 <div align="center">
 	<p>
