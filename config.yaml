@@ -28,8 +28,6 @@ params:
     - icon: 'fab fa-artstation fa-lg'
       url: 'https://www.artstation.com/marcusszabo8'
       landing: true
-    - icon: 'fab fa-twitter fa-lg'
-      url: 'https://twitter.com/Pyranthian0'
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://www.linkedin.com/in/marcus-szabo-76b77a19b/'
   homepage: "/work" # homepage link, mostly same with menu.main[0]
