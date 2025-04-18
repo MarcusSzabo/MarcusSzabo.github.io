@@ -30,6 +30,8 @@ I am a graduate from **Simon Fraser University** with a **Bachelor's Degree in A
 
 ​I'm an avid learner and am able to **pick up new skills quickly**. I enjoy challenges and love being able to flex my creative side by **designing map layouts**, **the flow of a level**, **combat encounters**, and **puzzles**. I'm familiar with leading and coordinating groups through design processes and taking an idea from concept to completion. 
 
+I have experience in leading groups and firmly believe in the ideology of **"lead by example"**. I encourage collaboration and always try to make sure that the people I'm helping or in charge of are healthy, happy, and are able to **do their work without any obstructions**. I've taken several online courses designed to train people as Scrum Masters and have obtained the **IBM IT Scrum Master Certification**. In this specialization, I focussed on learning Agile methodologies and different methods on implementing them through work pipelines such as kanban boards. I am currently working on obtaining the **Epic Games Game Design Professional Certificate** that focusses on a variety of tools in Unreal Engine and allows me to get a better handle on the various design methods in the engine.. 
+
 My inspiration for pursuing **animation** mainly comes from **Monty Oum**, who directed the 3D anime **RWBY** and was also in charge of the Halo inspired **“Red vs Blue”** fight scenes until 2015 where he passed away. He had an incredibly unique animation style that was primarily focused on **over-the-top combat**. He was able to create very complex and visually breathtaking animations and started a trend of animations using that style.
 
 
