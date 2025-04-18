@@ -1,6 +1,6 @@
 ---
 images:
-- /images/meclearcrop.png
+- /images/HeadshotSmallCrop.png
 title: About Me
 multipleColumn: true
 url: about
