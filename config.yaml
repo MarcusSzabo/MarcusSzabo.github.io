@@ -22,9 +22,9 @@ params:
         games: 3
   socials:
     # todo: change these links.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:marcus.szabo@outlook.com'
-      landing: true
+    # - icon: 'far fa-envelope fa-lg'
+    #  url: 'mailto:marcus.szabo@outlook.com'
+    #  landing: true
     - icon: 'fab fa-artstation fa-lg'
       url: 'https://www.artstation.com/marcusszabo8'
       landing: true
