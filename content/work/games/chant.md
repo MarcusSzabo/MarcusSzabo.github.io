@@ -2,8 +2,8 @@
 weight: 1000
 images:
 - /images/ChantTitleCard.jpg
-- - /images/ChantToads.png
-  - - /images/ChantStrider.png
+- /images/TheChantToads.png
+- /images/TheChantStrider.png
 title: The Chant
 date: 2022-11-03
 tags:
