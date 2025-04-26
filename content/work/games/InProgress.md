@@ -17,8 +17,11 @@ tags:
 - design
 hideExif: true
 ---
-
+<font color="red">
+  
 # The Trace
+
+</font>
 
 As a fan of **spy and heist movies**, I always enjoyed the trope of one person giving information to the person executing the mission. For this project, I wanted to design a Co-op puzzle game that has **two players collaborate** and communicate with each other to complete puzzles and perform heists. But with every good spy movie, there's always a **twist**. In **"The Trace"**, two players are trying to rob museums and banks by **solving puzzle modules** and escape with their bagged artifacts. But some of those artifacts have the chance to be **haunted**, and will plague the characters throughout their playthrough, affecting each player differently based on whether they are the "Intel" or the "Agent". 
 
