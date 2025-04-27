@@ -13,8 +13,7 @@ tags:
 - work # homepage
 - archive # all posts
 - games
-- art
-- design
+- inprogress
 hideExif: true
 ---
 <font color="red">
